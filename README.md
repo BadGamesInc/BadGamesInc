@@ -1,1 +1,1 @@
-### lua < python < literally any ohter language
+### lua < python < literally any other language
